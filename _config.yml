@@ -1,4 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Github  Pages  チュートリアル
 description: 自己紹介   平井  堅
-github: is_project_page: false
+github:
+  is_project_page: false
